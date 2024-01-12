@@ -5,7 +5,7 @@
 This is a simple code written using cypress and represents a food delivery website user journey of going through the ordering process of food up until the start of the login steps.
 
 ## How to run
-First clone the repository.
+First clone the repository. <br/>
 Run the npm install command in your terminal.
 Start up cypress with the help of npx cypress open commmand.
 Finally go through the cypress navigation and run the tests.
