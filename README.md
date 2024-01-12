@@ -1,4 +1,5 @@
-# DISCLAIMER!!! THIS SCRIPT IS INTENDED ONLY FOR PRACTICE/APPLICATION FOR AN INTERNSHIP PURPOSES !!!DISCLAIMER
+# DISCLAIMER!!! 
+# THIS SCRIPT IS INTENDED ONLY FOR PRACTICE/APPLICATION FOR AN INTERNSHIP PURPOSES
 
 ## Description
 This is a simple code written using cypress and represents a food delivery website user journey of going through the ordering process of food up until the start of the login steps.
